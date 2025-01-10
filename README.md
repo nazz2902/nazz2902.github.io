@@ -60,3 +60,10 @@
 </ul>
     <img src="game.png" alt="game" width="600" height="400">
 <a href="https://youtu.be/O34r5LWpxp4" target="_blank">Click here to watch on YouTube</a>
+
+<h1>Hangman Game</h1>
+<ul>
+    <li>A simple Hangman game made using Java.</li>
+    <li>Learned how to create a GUI for a more interactive experience.</li>
+</ul>
+<a href="https://youtu.be/n6Dd7LVeBQM" target="_blank"><img src="https://img.youtube.com/vi/n6Dd7LVeBQM/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
