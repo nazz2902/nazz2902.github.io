@@ -6,11 +6,6 @@
 
 # Education
 
-<p>Goldsmiths University of London</p>
-<p>-BSc Computer Science, 2022-2025</p>
-<p>New College</p>
-<p>-A Levels, 2020-2022</p>
-
 <ul>
     <li>
         <strong>Goldsmiths University of London</strong>
@@ -28,20 +23,40 @@
 
 # Skills
 
-<p>- Software Development</p>
-<p>- Web Development</p>
-<p>- Back-end</p>
-<p>- Front-end</p>
-<p>- Blender (3D Modeling) </p>
+<ul>
+    <li>Software Development</li>
+    <li>Web Development</li>
+    <li>Back-end</li>
+    <li>Front-end</li>
+    <li>Blender (3D Modeling)</li>
+    <li>Language Proficiency: English, Turkish</li>
+</ul>
 
 # Languages
 
-<li></li>
+<ul>
+    <li>JavaScript</li>
+    <li>Java</li>
+    <li>Python</li>
+    <li>HTML/li>
+    <li>CSS</li>
+    <li>SQL</li>
+</ul>
 
 # Work Experience
 
-    <h1>Welcome to My GitHub Page!</h1>
-    <p>This is hosted with GitHub Pages.</p>
+<ul>
+    <li>Internship experience: Bromcom, March 2024- August 2024</li>
+</ul>
 
-</body>
-</html>
+# Projects
+
+<h1>Game Project</h1>
+<ul>
+    <li>Understanding the basic ideas of programming, including variables and memory.</li>
+    <li>Designing and implementing a small program that uses simple control structures, including loops using JavaScript within the p5.js framework.</li>
+    <li>Developing a programme with several interacting classes and objects.
+</li>
+</ul>
+    <img src="/Users/nazliturk/Desktop/nazz2902.github.io/game.png" alt="A beautiful sunset" width="600" height="400">
+<a href="https://youtu.be/O34r5LWpxp4" target="_blank">Click here to watch on YouTube</a>
