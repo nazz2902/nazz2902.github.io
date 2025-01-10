@@ -58,5 +58,5 @@
     <li>Developing a programme with several interacting classes and objects.
 </li>
 </ul>
-    <img src="/Users/nazliturk/Desktop/nazz2902.github.io/game.png" alt="A beautiful sunset" width="600" height="400">
+    <img src="game.png" alt="game" width="600" height="400">
 <a href="https://youtu.be/O34r5LWpxp4" target="_blank">Click here to watch on YouTube</a>
