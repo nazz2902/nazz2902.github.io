@@ -97,8 +97,8 @@ Skills developed and outcomes:</p>
     <li>Utilized math and randomness to create dynamic visual effects like glitches and transformations.</li>
      <li>Produced an innovative digital artwork combining artistic inspiration with technical execution.</li>
 </ul>
-<a href="https://youtu.be/JyQ6_NoLaJM" target="_blank"><img src="hhttps://youtu.be/JyQ6_NoLaJM/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
-<a href="https://youtu.be/JyQ6_NoLaJM" target="_blank">Click here to watch on YouTube</a>
+<a href="https://www.youtube.com/watch?v=JyQ6_NoLaJM" target="_blank"><img src="https://www.youtube.com/watch?v=JyQ6_NoLaJM/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
+<a href="https://www.youtube.com/watch?v=JyQ6_NoLaJM" target="_blank">Click here to watch on YouTube</a>
 
 <h1>3D Animation</h1>
 <ul>
@@ -107,8 +107,8 @@ Skills developed and outcomes:</p>
     <li>Physics Simulation: Applied basic physics principles, such as forces, velocity, collision detection, and response within a constrained 3D environment./li>
     <li>Mathematical Problem-Solving: Utilized vectors for operations like direction, distance calculation, and normalizing to create realistic behaviors and effects.</li>
 </ul>
-<a href="https://youtu.be/Id5PRPIkJAI" target="_blank"><img src="https://youtu.be/Id5PRPIkJAI" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
-<a href="https://youtu.be/Id5PRPIkJAI" target="_blank">Click here to watch on YouTube</a>
+<a href="https://www.youtube.com/watch?v=Id5PRPIkJAI" target="_blank"><img src="https://www.youtube.com/watch?v=Id5PRPIkJAI/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
+<a href="https://www.youtube.com/watch?v=Id5PRPIkJAI" target="_blank">Click here to watch on YouTube</a>
 
 <h1>Drawing App</h1>
 <ul>
@@ -117,5 +117,5 @@ Skills developed and outcomes:</p>
     <li>Organizing functionality into multiple modular JavaScript files (e.g., sketch.js, toolbox.js) for better maintainability and scalability./li>
     <li>Frontend and Multimedia Integration: Integrating multimedia assets like images, icons, and buttons into a web page for enhanced user experience.</li>
 </ul>
-<a href="https://www.youtube.com/watch?v=aB5QlNL5TWs" target="_blank"><img src="https://www.youtube.com/watch?v=aB5QlNL5TWs" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
+<a href="https://www.youtube.com/watch?v=aB5QlNL5TWs" target="_blank"><img src="https://www.youtube.com/watch?v=aB5QlNL5TWs/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
 <a href="https://www.youtube.com/watch?v=aB5QlNL5TWs" target="_blank">Click here to watch on YouTube</a>
