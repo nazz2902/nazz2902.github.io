@@ -56,8 +56,8 @@
     <li>Full-Stack Web Development: Integrating frontend templates (EJS/Pug) with backend technologies (Node.js and Express) and connecting to databases using MySQL.</li>
     <li>API Development and Integration: Designing and implementing APIs for your application and consuming data from publicly available APIs to enrich functionality.</li>
 </ul>
-<a href="hhttps://youtu.be/dGsDyyeznKE" target="_blank"><img src="https://youtu.be/dGsDyyeznKE/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
-<a href="https://youtu.be/dGsDyyeznKE" target="_blank">Click here to watch on YouTube</a>
+<a href="https://www.youtube.com/watch?v=dGsDyyeznKE" target="_blank"><img src="https://www.youtube.com/watch?v=dGsDyyeznKE/0.jpg" alt="YouTube Video Preview" style="width: 560px; height: 315px; border: 1px solid #ccc;"></a>
+<a href="https://www.youtube.com/watch?v=dGsDyyeznKE" target="_blank">Click here to watch on YouTube</a>
 
 <h1>Game Project</h1>
 <ul>
