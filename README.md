@@ -65,7 +65,7 @@
     <li>Designing and implementing a small program that uses simple control structures, including loops using JavaScript within the p5.js framework.</li>
     <li>Developing a programme with several interacting classes and objects.</li>
 </ul>
-<img src="https://i.imgur.com/FHfgFS5.png" alt="game" width="600" height="400">
+<img src="game.png" alt="game" width="600" height="400">
 <a href="https://youtu.be/O34r5LWpxp4" target="_blank">Click here to watch on YouTube</a>
 
 <h1>Hangman Game</h1>
