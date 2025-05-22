@@ -51,6 +51,30 @@
 
 # Projects
 
+<h1>Dental X-Ray Object Detection using YOLOv8</h1>
+<ul>
+    <li><strong>Overview:</strong> This project implements a deep learning-based object detection system to identify dental anomalies in panoramic X-ray images. Using the YOLOv8 model, it detects four key dental conditions: Cavities, Fillings, Impacted Teeth, and Implants.</li>
+    
+    <li><strong>Model:</strong> The system is powered by a fine-tuned YOLOv8n (nano) model, chosen for its balance between accuracy and real-time performance. It is trained on a custom-labeled dataset with YOLO-formatted annotations.</li>
+
+    <li><strong>Dataset:</strong> A curated dataset of 121 annotated X-ray images was used, with over 780 labeled instances across four classes. The dataset is imbalanced, with Fillings and Implants being more frequent than Cavities and Impacted Teeth.</li>
+
+    <li><strong>Preprocessing:</strong> The pipeline includes image normalization, data augmentation (rotation, scaling), and conversion to YOLO format with normalized bounding box coordinates.</li>
+
+    <li><strong>Training:</strong> Model trained for 50 epochs with 640x640 image resolution and batch size of 16 using the Ultralytics YOLOv8 framework.</li>
+
+    <li><strong>Evaluation:</strong> The model achieved high precision and recall for Fillings and Implants (e.g., Implant precision: 0.93, mAP50: 0.97). Cavity detection performance was lower due to class imbalance and object subtlety.</li>
+
+    <li><strong>Deployment:</strong> A basic inference environment simulates how a dentist could upload an image and review model-predicted bounding boxes and anomaly types for decision support (not for clinical use).</li>
+
+    <li><strong>Limitations:</strong> Detection of small or faint anomalies like cavities was less reliable. Improvements can be made with more balanced data, higher-resolution images, and extended training.</li>
+
+    <li><strong>Future Work:</strong> Plans include scaling to larger datasets, experimenting with larger YOLOv8 variants, and exploring real-time integration into dental imaging tools for educational or second-opinion purposes.</li>
+
+</ul>
+<img src="example1.jpg" alt="xray" width="600" height="400">
+<img src="example2.jpg" alt="xray" width="600" height="400">
+
 <h1>Website for a bookshop</h1>
 <ul>
     <li>Full-Stack Web Development: Integrating frontend templates (EJS/Pug) with backend technologies (Node.js and Express) and connecting to databases using MySQL.</li>
